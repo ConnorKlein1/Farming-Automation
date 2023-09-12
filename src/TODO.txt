@@ -1,0 +1,6 @@
+What I would like to implement
+
+- 6 point beizer curve. where the extra points move horizontally 
+- create rects only for crossing two lines
+- create headlands
+- make all the arrays np, inlcuding in plotter
